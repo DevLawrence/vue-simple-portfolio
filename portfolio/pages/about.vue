@@ -5,7 +5,7 @@
     <div class="container has-text-centered">
       <h1 class="title">About Me</h1>
       <p>
-        My name is Chimezie Enyinnaya (AKA mezie), I’m a self taught software developer based in Lagos, Nigeria. I build modern applications for the web! I'm a technical writer, I write technical articles and tutorials for various platforms including <a href="https://scotch.io/@mezie">Scotch.io</a>.
+        My name is Lawrence Kyalo , I’m a self taught software developer based in Nairobi, Kenya. I build modern applications for the web! I'm a technical writer, I write technical articles and tutorials for various platforms.
       </p>
     </div>
   </section>
